@@ -6,11 +6,11 @@ Your task is to create a 3-page application
 
 sign in page:
 
-![signin](https://raw.githubusercontent.com/forexco/code-challenge-1/main/design/signin.png)
+![signin](https://raw.githubusercontent.com/forexco/code-challenge-2/main/design/signin.png)
 
 sign up page:
 
-![signup](https://raw.githubusercontent.com/forexco/code-challenge-1/main/design/signup.png)
+![signup](https://raw.githubusercontent.com/forexco/code-challenge-2/main/design/signup.png)
 
 - a new user can sign up
 
@@ -22,7 +22,7 @@ sign up page:
 
 - display this component:
 
-![converter](https://raw.githubusercontent.com/forexco/code-challenge-1/main/design/converter.png)
+![converter](https://raw.githubusercontent.com/forexco/code-challenge-2/main/design/converter.png)
 
 - automatically fetch rate when both sides of currency provided
 

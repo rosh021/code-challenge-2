@@ -18,6 +18,8 @@ sign up page:
 
 - only display the currency converter page to the logged-in user
 
+- keep the component as close to design as possible (blue1:`#2F49D1`, blue2: `#5887FF`, grey:`#EFF0F6`)
+
 ### 📄 Currency converter page:
 
 - display this component:
